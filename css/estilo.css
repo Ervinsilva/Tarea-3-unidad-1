@@ -1,0 +1,74 @@
+body .par{
+    color: green;
+}
+
+
+body{
+    background:#000000 ;
+}
+
+
+.lado{
+    width: 150px;
+    height: 70px;
+    margin-bottom: 550px;
+    margin-left: 15px;
+    position: fixed;
+
+}
+
+
+.main{
+    top: 130px;
+    left: 80px;
+    width: 1200px;
+    height: 440px;
+    position: fixed;
+    transition: 0.5s;
+    object-fit: cover;
+
+
+}
+
+h1{
+     color: aliceblue;
+    left: 180px;
+    top: 10px;
+    position: fixed;
+}
+
+.par{
+    position: fixed;
+    color: chartreuse;
+    font-size: 30px;
+    top: 60px;
+    left: 50px;
+}
+
+.par{
+    color: blue;
+}
+
+.info{
+    background: #917FB3;
+    position: fixed;
+    color: gold;
+    font-size: 30px;
+    font-family: fantasy;
+    bottom: 10px;
+    left: 10px;
+}
+.info:hover{
+    color:#917FB3;
+    background: gold;
+
+
+}
+
+.main:hover{
+    transform: scale(1.050);
+}
+
+body  {
+    color: red;
+}
